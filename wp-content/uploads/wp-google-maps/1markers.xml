@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<markers>
+  <marker>
+    <marker_id>2</marker_id>
+    <map_id>1</map_id>
+    <title></title>
+    <address>Tr&#x1B0;&#x1EDD;ng Cao &#x111;&#x1EB3;ng kinh t&#x1EBF; k&#x1EF9; thu&#x1EAD;t c&#x1EA7;n th&#x1A1; s&#x1ED1; 9 c&#xE1;ch m&#x1EA1;ng th&#xE1;ng 8 ninh ki&#xEA;u c&#x1EA7;n th&#x1A1;</address>
+    <desc></desc>
+    <pic></pic>
+    <icon></icon>
+    <linkd></linkd>
+    <lat>10.0520434</lat>
+    <lng>105.77333629999998</lng>
+    <anim>0</anim>
+    <category></category>
+    <infoopen>0</infoopen>
+  </marker>
+  <marker>
+    <marker_id>3</marker_id>
+    <map_id>1</map_id>
+    <title></title>
+    <address>Tr&#x1B0;&#x1EDD;ng Cao &#x111;&#x1EB3;ng kinh t&#x1EBF; k&#x1EF9; thu&#x1EAD;t c&#x1EA7;n th&#x1A1; s&#x1ED1; 9 c&#xE1;ch m&#x1EA1;ng th&#xE1;ng 8 ninh ki&#xEA;u c&#x1EA7;n th&#x1A1;</address>
+    <desc></desc>
+    <pic></pic>
+    <icon></icon>
+    <linkd></linkd>
+    <lat>10.0520434</lat>
+    <lng>105.77333629999998</lng>
+    <anim>1</anim>
+    <category></category>
+    <infoopen>1</infoopen>
+  </marker>
+</markers>
